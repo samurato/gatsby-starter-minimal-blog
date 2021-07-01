@@ -1,6 +1,10 @@
 {
   "private": true,
+<<<<<<< HEAD
   "name": "samratpantblogs",
+=======
+  "name": "Samrat Pant",
+>>>>>>> dbb66b6afedf445b105449a9bfe96811f08e7109
   "description": "Blog website of Samrat",
   "version": "1.3.11",
   "author": "Samrat Pant <samrat.sammie@gmail.com>",
