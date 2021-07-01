@@ -27,12 +27,16 @@ module.exports = {
         ],
         externalLinks: [
           {
-            name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            name: `Linkedin`,
+            url: `https://linkedin.com/in/samratpant`,
           },
-          {
+          { 
             name: `Homepage`,
-            url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
+            url: `https://www.samratpant.com`,
+          },
+          { 
+            name: `Github`,
+            url: `https://github.com/samurato`,
           },
         ],
       },
